@@ -1,0 +1,802 @@
+[
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 3,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 3,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 4,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 1,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 3,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 2,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 4,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 3,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 2,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 4,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 4,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 3,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 3,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 5,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 2,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 4,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 5,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 5,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 3,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 5,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 1,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 2,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 4,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 2,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 3,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 5,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 4,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 5,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 5,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 3,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 1,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 3,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 2,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 2,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 5,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 3,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 4,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 2,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 3,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 5,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 1,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 3,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 5,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 4,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 5,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 1,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 5,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 4,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 2,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 3,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 1,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 2,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 3,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 5,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 5,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 5,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 1,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 1,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 1,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 2,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 3,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 5,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 4,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 5,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 3,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 2,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 3,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 4,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 1,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 1,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 3,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 4,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 5,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 2,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 1,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 1,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 1,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 5,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 1,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 3,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 4,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 2,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 5,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 5,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 3,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 1,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 2,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 4,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 3,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 5,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 3,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 3,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 3,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 3,
+		"Sector": 1
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 2,
+		"Have a cross-functional teams": 3,
+		"Sector": 4
+	},
+	{
+		"Take it personally": 5,
+		"Have a clear stratergy": 1,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 5,
+		"Have a cross-functional teams": 4,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 3,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 1,
+		"Sector": 5
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 3,
+		"Find problems worth solving": 1,
+		"Build and participate in ecosystems": 4,
+		"Have a cross-functional teams": 4,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 4,
+		"Have a clear stratergy": 4,
+		"Find problems worth solving": 5,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 2,
+		"Sector": 3
+	},
+	{
+		"Take it personally": 2,
+		"Have a clear stratergy": 2,
+		"Find problems worth solving": 3,
+		"Build and participate in ecosystems": 1,
+		"Have a cross-functional teams": 2,
+		"Sector": 2
+	},
+	{
+		"Take it personally": 1,
+		"Have a clear stratergy": 5,
+		"Find problems worth solving": 2,
+		"Build and participate in ecosystems": 3,
+		"Have a cross-functional teams": 3,
+		"Sector": 5
+	}
+]

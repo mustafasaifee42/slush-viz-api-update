@@ -1,0 +1,1279 @@
+{
+    "total_items": 13,
+    "page_count": 1,
+    "items": [
+        {
+            "landing_id": "ce065mn1d33i94f8kpbtce065mn91avr",
+            "token": "ce065mn1d33i94f8kpbtce065mn91avr",
+            "response_id": "ce065mn1d33i94f8kpbtce065mn91avr",
+            "landed_at": "2019-11-15T07:23:18Z",
+            "submitted_at": "2019-11-15T07:25:39Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1",
+                "platform": "mobile",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "8180f8e9ab",
+                "browser": "touch"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Katja"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Metsola"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "Katja.metsola@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 3.2
+            }
+        },
+        {
+            "landing_id": "tk2o9c075bqnen2ienevzditk2o9omof",
+            "token": "tk2o9c075bqnen2ienevzditk2o9omof",
+            "response_id": "tk2o9c075bqnen2ienevzditk2o9omof",
+            "landed_at": "2019-11-15T07:22:36Z",
+            "submitted_at": "2019-11-15T07:24:54Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1",
+                "platform": "mobile",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "f8919cd306",
+                "browser": "touch"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Korhan"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Buyukdemirci"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "korhan.b@gmail.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 1.8
+            }
+        },
+        {
+            "landing_id": "sxzbdl03hdo93by0sxzbdl0z6ymq9lph",
+            "token": "sxzbdl03hdo93by0sxzbdl0z6ymq9lph",
+            "response_id": "sxzbdl03hdo93by0sxzbdl0z6ymq9lph",
+            "landed_at": "2019-11-15T07:21:26Z",
+            "submitted_at": "2019-11-15T07:24:18Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) CriOS/78.0.3904.84 Mobile/15E148 Safari/604.1",
+                "platform": "mobile",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "8180f8e9ab",
+                "browser": "touch"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Tuomas"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Välimaa"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "tuomas.valimaa@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 4
+            }
+        },
+        {
+            "landing_id": "hqcr63xoromc7bvem7enxzahqcr63hvw",
+            "token": "hqcr63xoromc7bvem7enxzahqcr63hvw",
+            "response_id": "hqcr63xoromc7bvem7enxzahqcr63hvw",
+            "landed_at": "2019-11-15T07:21:08Z",
+            "submitted_at": "2019-11-15T07:24:10Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1",
+                "platform": "mobile",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "97319282b8",
+                "browser": "touch"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Nelli"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Myllylä"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "nelli.myllyla@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 2
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 4.2
+            }
+        },
+        {
+            "landing_id": "4l82pih93bbo4l82pzkmg7n0hlu9csp4",
+            "token": "4l82pih93bbo4l82pzkmg7n0hlu9csp4",
+            "response_id": "4l82pih93bbo4l82pzkmg7n0hlu9csp4",
+            "landed_at": "2019-11-15T07:21:35Z",
+            "submitted_at": "2019-11-15T07:23:16Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_3_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.1 Mobile/15E148 Safari/604.1",
+                "platform": "mobile",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "8180f8e9ab",
+                "browser": "touch"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Jussi"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Hacklin"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "jussi.hacklin@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 4.4
+            }
+        },
+        {
+            "landing_id": "ju2uxuf9r1zq5t5emlju2u93b6vv54hq",
+            "token": "ju2uxuf9r1zq5t5emlju2u93b6vv54hq",
+            "response_id": "ju2uxuf9r1zq5t5emlju2u93b6vv54hq",
+            "landed_at": "2019-11-13T17:35:28Z",
+            "submitted_at": "2019-11-13T17:37:06Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1",
+                "platform": "mobile",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "366c8f12d3",
+                "browser": "touch"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Arttu"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Tolonen"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "tolonen@gmail.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 2
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 2
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 3
+            }
+        },
+        {
+            "landing_id": "qz89c2qitqkpqz873mvg1i1k8o7atyfo",
+            "token": "qz89c2qitqkpqz873mvg1i1k8o7atyfo",
+            "response_id": "qz89c2qitqkpqz873mvg1i1k8o7atyfo",
+            "landed_at": "2019-11-13T16:41:19Z",
+            "submitted_at": "2019-11-13T16:44:51Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 13_1_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.1 Mobile/15E148 Safari/604.1",
+                "platform": "mobile",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "2ea9b83d91",
+                "browser": "touch"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Essi"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Knuutila"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "essi.knuutila@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 2
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 3.2
+            }
+        },
+        {
+            "landing_id": "6sviunyiuf3a49b5im6svi416v1gtxr3",
+            "token": "6sviunyiuf3a49b5im6svi416v1gtxr3",
+            "response_id": "6sviunyiuf3a49b5im6svi416v1gtxr3",
+            "landed_at": "2019-11-13T15:50:12Z",
+            "submitted_at": "2019-11-13T15:52:00Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.1.2 Mobile/15E148 Safari/604.1",
+                "platform": "mobile",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "0184577880",
+                "browser": "touch"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Eeva"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Raita"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "eeva.raita@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 4.4
+            }
+        },
+        {
+            "landing_id": "b3u9ij2infxb3u90g06nne8btplm6ts0",
+            "token": "b3u9ij2infxb3u90g06nne8btplm6ts0",
+            "response_id": "b3u9ij2infxb3u90g06nne8btplm6ts0",
+            "landed_at": "2019-11-13T15:16:36Z",
+            "submitted_at": "2019-11-13T15:19:33Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36",
+                "platform": "other",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "8180f8e9ab",
+                "browser": "default"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Pekka"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Lehtinen"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "pekka@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 5
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 4.6
+            }
+        },
+        {
+            "landing_id": "zyrvwxwfcrcwc2u4h2zyrvwx0n4hatwa",
+            "token": "zyrvwxwfcrcwc2u4h2zyrvwx0n4hatwa",
+            "response_id": "zyrvwxwfcrcwc2u4h2zyrvwx0n4hatwa",
+            "landed_at": "2019-11-13T15:11:14Z",
+            "submitted_at": "2019-11-13T15:12:10Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_3) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/12.0.3 Safari/605.1.15",
+                "platform": "other",
+                "referer": "https://ftrc.typeform.com/to/MwDUbF",
+                "network_id": "5a62864b26",
+                "browser": "default"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "test"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "test"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "test@test.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "AJkNsYQKuJOd",
+                        "type": "number",
+                        "ref": "3c8a7910-f834-4ace-8bee-d41b185955dd"
+                    },
+                    "type": "number",
+                    "number": 5
+                }
+            ],
+            "calculated": {
+                "score": 3
+            }
+        },
+        {
+            "landing_id": "chct4666peixhnszchctrudqmglgswru",
+            "token": "chct4666peixhnszchctrudqmglgswru",
+            "response_id": "chct4666peixhnszchctrudqmglgswru",
+            "landed_at": "2019-11-08T09:49:39Z",
+            "submitted_at": "2019-11-08T09:50:08Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36",
+                "platform": "other",
+                "referer": "https://vilenlooga.typeform.com/to/MwDUbF",
+                "network_id": "8180f8e9ab",
+                "browser": "default"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Vilen"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Looga"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "vilen.looga@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 1
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 1
+                }
+            ],
+            "calculated": {
+                "score": 0
+            }
+        },
+        {
+            "landing_id": "0k9g5qa6xl6wsulf4h0k9g515r3asoo5",
+            "token": "0k9g5qa6xl6wsulf4h0k9g515r3asoo5",
+            "response_id": "0k9g5qa6xl6wsulf4h0k9g515r3asoo5",
+            "landed_at": "2019-11-08T09:26:44Z",
+            "submitted_at": "2019-11-08T09:27:12Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.97 Safari/537.36",
+                "platform": "other",
+                "referer": "https://vilenlooga.typeform.com/to/MwDUbF",
+                "network_id": "8180f8e9ab",
+                "browser": "default"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Vilen"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Looga"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "vilen.looga@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 4
+                }
+            ],
+            "calculated": {
+                "score": 0
+            }
+        },
+        {
+            "landing_id": "ys665aht0xlnkzzk5nr54ulgqys665aa",
+            "token": "ys665aht0xlnkzzk5nr54ulgqys665aa",
+            "response_id": "ys665aht0xlnkzzk5nr54ulgqys665aa",
+            "landed_at": "2019-11-08T07:59:19Z",
+            "submitted_at": "2019-11-08T08:00:42Z",
+            "metadata": {
+                "user_agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_1) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.87 Safari/537.36",
+                "platform": "other",
+                "referer": "https://vilenlooga.typeform.com/to/MwDUbF",
+                "network_id": "8180f8e9ab",
+                "browser": "default"
+            },
+            "answers": [
+                {
+                    "field": {
+                        "id": "mgUAqZYWblyo",
+                        "type": "short_text",
+                        "ref": "a2c7c554-f952-4fcc-b3fa-69be0a29e9c7"
+                    },
+                    "type": "text",
+                    "text": "Vilen"
+                },
+                {
+                    "field": {
+                        "id": "BHLdTvnpNTBo",
+                        "type": "short_text",
+                        "ref": "dfc0c8ca-3657-4eba-bece-241e36910a59"
+                    },
+                    "type": "text",
+                    "text": "Looga"
+                },
+                {
+                    "field": {
+                        "id": "iFKTDtIihi35",
+                        "type": "email",
+                        "ref": "90fe3fc5-5620-4bb4-971e-e071ebb4aa96"
+                    },
+                    "type": "email",
+                    "email": "vilen.looga@futurice.com"
+                },
+                {
+                    "field": {
+                        "id": "wV0ZVpAsxZEi",
+                        "type": "opinion_scale",
+                        "ref": "42bec9c3-ae88-4951-83b6-cbd41ab77951"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "iMRkjHAZPoym",
+                        "type": "opinion_scale",
+                        "ref": "bb70b23c-4a26-46a8-bf22-21f9ec0d1e2d"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "whfFm1Hitm5m",
+                        "type": "opinion_scale",
+                        "ref": "49f2db62-52da-4ae6-9a93-46c24897f841"
+                    },
+                    "type": "number",
+                    "number": 4
+                },
+                {
+                    "field": {
+                        "id": "EsidgSvGpUn9",
+                        "type": "opinion_scale",
+                        "ref": "a82eb272-79dd-4391-ab99-0978781e64a2"
+                    },
+                    "type": "number",
+                    "number": 3
+                },
+                {
+                    "field": {
+                        "id": "jBQKbWZfa4EY",
+                        "type": "opinion_scale",
+                        "ref": "061c8451-0acd-4ab5-99e3-9d11edd754bd"
+                    },
+                    "type": "number",
+                    "number": 4
+                }
+            ],
+            "calculated": {
+                "score": 0
+            }
+        }
+    ]
+}
