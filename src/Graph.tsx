@@ -24,8 +24,9 @@ export class GraphArea extends Component <{topics:any,sectors:any, data:any},{da
     setInterval(() => {this.updateAPIData()}, 60000);
   }
   updateAPIData(){
-    axios.get('http://localhost:3000/typeform_response',{ headers: { Authorization: 'Bearer Hr3EEcXr52zkTRHrS4N2mTRk4SAZLAd3VwUnsoNbDCK9', "Access-Control-Allow-Origin": "*"} }).then(d => {
+    axios.get('https://admiring-euler-90f3ed.netlify.com/.netlify/functions/api',{ headers: { Authorization: 'Bearer Hr3EEcXr52zkTRHrS4N2mTRk4SAZLAd3VwUnsoNbDCK9', "Access-Control-Allow-Origin": "*"} }).then(d => {
       let dat = d.data.items    
+      console.log(dat)
       let ans = dat.map((d:any,i:number) => {
         let answer = d.answers;
         let ansObj:any = {}
