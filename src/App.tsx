@@ -5,7 +5,7 @@ import Graph from './Graph';
 import './App.css';
 
 const App: React.FC = () => {
-  let topics = ["Take it personally","Have a clear stratergy","Find problems worth solving","Build and participate in ecosystems","Have a cross-functional teams"];
+  let topics = ["Take it personally","Have a clear strategy","Find problems worth solving","Build & participate in ecosystems","Have cross-functional teams"];
   let sectors = ['All','1','2','3','4','5']
   
   let freqData:any = {}

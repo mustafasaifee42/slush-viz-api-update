@@ -13,7 +13,7 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
       barWid:2, 
       hght:100,
       barHght:20,
-      margin:{left:200, right:200, top: 150, bottom:0},
+      margin:{left:400, right:250, top: 150, bottom:50},
       topics: this.props.topics,
       value: ['Completely  agree','Somewhat agree','Neither agree or disagree','Somewhat disagree','Completely  disagree'],
       sectorColor: ['#EC46464','#FF885D','#00C89C','#EBBB1B','#1664FF'],
@@ -40,7 +40,7 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
   widthScale(value:string){
     let x = d3.scaleBand()
       .domain(this.state.topics)
-      .range([this.state.margin.left, this.state.wid])
+      .range([this.state.margin.left, this.state.wid - 200])
       .paddingInner(0.05)
     let xvalue = x(value) 
     if(xvalue)
@@ -141,7 +141,6 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
     if(this.props.data === 0)
       return <div />
     else {
-        console.log('hello')
       let txt = this.state.topics.map((d:string,i:number) => {
         return (
           <text 
@@ -228,7 +227,3 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
 }
 
 export default GraphArea;
-
-//Hr3EEcXr52zkTRHrS4N2mTRk4SAZLAd3VwUnsoNbDCK9
-
-//MwDUbF

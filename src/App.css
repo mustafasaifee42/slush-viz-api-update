@@ -18,12 +18,12 @@ body{
 }
 
 .header{
+  margin-top:70px;
   background-color: #29266e;
   font-size: 48px;
   padding:100px 0px;
   font-weight: bold;
   display: flex;
-  margin: 0 90px;
   text-align: center;
   justify-content: center;
 }
@@ -54,7 +54,7 @@ svg{
 }
 
 .labelText{
-  font-size: 14px;
+  font-size: 20px;
   fill:white;
   opacity: 0.6;
 
