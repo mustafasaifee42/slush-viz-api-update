@@ -141,6 +141,8 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
     if(this.props.data === 0)
       return <div />
     else {
+        let topics_label_1 = ["Take it personally","Have a clear strategy","Find problems worth","Build & participate","Have cross-functional"];
+        let topics_label_2 = ["","","solving","in ecosystems","teams"]
       let txt = this.state.topics.map((d:string,i:number) => {
         return (
           <text 
@@ -150,11 +152,26 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
             y={50}  
             textAnchor={'middle'}
           >
-            {d}
+            {topics_label_1[i]}
           </text>
         )
 
       })
+      let txt1 = this.state.topics.map((d:string,i:number) => {
+        return (
+          <text 
+            key={i}
+            className='headerText'
+            x={this.widthScale(d)}
+            y={75}  
+            textAnchor={'middle'}
+          >
+            {topics_label_2[i]}
+          </text>
+        )
+
+      })
+      
       let labelTxt = this.state.value.map((d:string,i:number) => {
         return (
           <text 
@@ -214,6 +231,7 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
         <div className='svgContainer'>
           <svg width={this.state.wid} height={this.state.height}>
             {txt}
+            {txt1}
             {labelTxt}
             {polyLines}
             {boxes}
