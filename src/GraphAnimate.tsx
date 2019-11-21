@@ -15,7 +15,7 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
       barHght:20,
       margin:{left:400, right:250, top: 150, bottom:50},
       topics: this.props.topics,
-      value: ['Completely  agree','Somewhat agree','Neither agree or disagree','Somewhat disagree','Completely  disagree'],
+      value: ['Completely  disagree','Somewhat disagree','Neither agree or disagree','Somewhat agree','Completely  agree'],
       sectorColor: ['#EC46464','#FF885D','#00C89C','#EBBB1B','#1664FF'],
 
     }  
@@ -38,7 +38,7 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
   };
   heightScale(value:number){
     let y = d3.scaleLinear()
-      .domain([1,5]) // unit: km
+      .domain([5,1]) // unit: km
       .range([this.state.margin.top, this.state.height - this.state.margin.top  - this.state.margin.bottom ]) // unit: pixels
     return y(value)
   }
