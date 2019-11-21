@@ -23,8 +23,19 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
     this.widthScale = this.widthScale.bind(this);
     this.radiusScale = this.radiusScale.bind(this);
     this.updateData = this.updateData.bind(this);  
-    this.solve = this.solve.bind(this);  
+    this.solve = this.solve.bind(this); 
+    this.changeDimensions = this.changeDimensions.bind(this);  
+    window.onresize = this.changeDimensions;
   } 
+  
+  changeDimensions(){
+    let width = window.innerWidth;
+    let height = window.innerHeight -250
+    this.setState({
+      wid: width, 
+      height: height,
+    })
+  };
   heightScale(value:number){
     let y = d3.scaleLinear()
       .domain([1,5]) // unit: km
@@ -187,6 +198,7 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
 
       })
       let opacityScale = 0.65 / this.props.data[this.props.sectors[0]]['data'].length
+      console.log(this.props.data)
       let polyLines = this.props.data[this.props.sectors[0]]['data'].map((d:any,i:number) => {
         let points:any = []
         this.state.topics.forEach((el:string,j:number) => {
@@ -194,6 +206,7 @@ export class GraphArea extends Component <{sectorLength:number,topics:any,sector
           let yPos  = this.heightScale( d[el] );
           points.push(xPos,yPos)
         })
+        console.log(d)
         return (
         <path 
           key={i}

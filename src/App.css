@@ -19,6 +19,8 @@ body{
 
 .header{
   margin-top:70px;
+  margin-left:50px;
+  margin-right:50px;
   background-color: #29266e;
   font-size: 48px;
   padding:100px 0px;

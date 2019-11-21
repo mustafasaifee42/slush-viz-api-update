@@ -30,10 +30,28 @@ export class GraphArea extends Component <{topics:any,sectors:any, data:any},{da
       let ans = dat.map((d:any,i:number) => {
         let answer = d.answers;
         let ansObj:any = {}
-        for (let k  = 4; k < 9; k++){
-          ansObj[this.props.topics[k-4]] = answer[k].number
+        for (let k  = 0; k < answer.length; k++){
+          if(answer[k].field.id === "RUiqyDUmiGpi")
+            ansObj[this.props.topics[0]] = answer[k].number
+          if(answer[k].field.id === "KvLzlAsCdw6C")
+            ansObj[this.props.topics[1]] = answer[k].number
+          if(answer[k].field.id === "e4Eo8drf9Xv7")
+            ansObj[this.props.topics[2]] = answer[k].number
+          if(answer[k].field.id === "J5h3qwNwd3YO")
+            ansObj[this.props.topics[3]] = answer[k].number
+          if(answer[k].field.id === "HLsu0IGAUbQ9")
+            ansObj[this.props.topics[4]] = answer[k].number
+          if(answer[k].field.id === "meU4EKDNfwXr")
+            ansObj['Sector'] = answer[k].text
         }
-        ansObj['Sector'] = answer[3].text
+        for (let k = 0; k < 5; k++){
+          if(!ansObj[this.props.topics[k]]){
+            ansObj[this.props.topics[k]] = 1
+          }
+        }
+        if(!ansObj['Sector']){
+          ansObj['Sector'] = 'Other'
+        }
         return ansObj
       })
       let freqData:any = {}
